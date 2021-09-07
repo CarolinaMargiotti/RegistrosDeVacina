@@ -1,4 +1,4 @@
 module.exports = {
     UsuarioController: require("./UsuarioController"),
-    // GastoController: require("./GastoController"),
+    VacinaController: require("./VacinaController"),
 };

@@ -47,6 +47,10 @@ const Usuario = database.define(
                 },
             },
         },
+        registroVacinas: {
+            type: Sequelize.ARRAY(Sequelize.DataTypes.JSON),
+            allowNull: true,
+        },
     },
     {
         freezeTableName: true, // Model tableName will be the same as the model name
