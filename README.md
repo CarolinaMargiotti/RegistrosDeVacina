@@ -1,5 +1,5 @@
 # RegistrosDeVacina
-Atividade da faculdade envolvendo Javascript, Node,Heroku e ElephantSQL.
+Back-End dos registros de vacina, envolvendo Javascript, Node,Heroku e ElephantSQL.
 
 # Requisitos
 
