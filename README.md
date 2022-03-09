@@ -1,6 +1,3 @@
-Carolina Margiotti de Abreu
-ADS 4º Semestre Turma B
-
 # RegistrosDeVacina
 Atividade da faculdade envolvendo Javascript, Node,Heroku e ElephantSQL.
 
